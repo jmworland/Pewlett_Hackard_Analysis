@@ -5,7 +5,7 @@ The purpose of this project given to us by our manager was to mainly to organize
 
 ## Results
 The results are extreme. 
-•	There is a large amount of retiring workforce that will seriously affect the company if we do not take drastic efforts to prepare. [Retiring by Titles]
+•	There is a large amount of retiring workforce that will seriously affect the company if we do not take drastic efforts to prepare. [Retiring by Titles](Data/retiring_titles.csv)
 •	Majority of retiring employees are senior staff and senior engineers. We also have two managers that are retiring. 
 •	Small number of employees are eligible for mentoring program compared to number of retiring. [Mentorship Eligibility]
 •	Majority of our mentees are in regular staff and engineering levels. 
